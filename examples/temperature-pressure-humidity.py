@@ -36,4 +36,4 @@ try:
             print(output)
 
 except KeyboardInterrupt:
-    pass
+    exit()
